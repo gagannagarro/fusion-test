@@ -1,5 +1,5 @@
-import WeatherDashboard from '@/components/WeatherDashboard';
+import OpportunityDashboard from '@/components/OpportunityDashboard';
 
 export default function Home() {
-  return <WeatherDashboard />;
+  return <OpportunityDashboard />;
 }
